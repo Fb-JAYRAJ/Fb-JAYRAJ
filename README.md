@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hey there, I'm Jayraj Sawant!
 
-<!--
-**Fb-JAYRAJ/Fb-JAYRAJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electronics & Computer Science Engineering  
+📍 Based in India | 🧠 Learning Data Science  
+⚡ Currently building: [Student Info Management App](https://github.com/Fb-JAYRAJ/student-info-app)  
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+- 🐍 Python
+- 🖥️ HTML, CSS, Bootstrap
+- 🗃️ SQL
+- 🌐 Flask (basic web app framework)
+- 🛠️ Git & GitHub
+  
+## 📈 Goals
+- Master Data Science & Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔗 Connect with me
+- [GitHub](https://github.com/Fb-JAYRAJ)
