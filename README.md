@@ -2,7 +2,6 @@
 
 🎓 Electronics & Computer Science Engineering  
 📍 Based in India | 🧠 Learning Data Science  
-⚡ Currently building: [Student Info Management App](https://github.com/Fb-JAYRAJ/student-info-app)  
 
 ## 🚀 Tech Stack
 - 🐍 Python
